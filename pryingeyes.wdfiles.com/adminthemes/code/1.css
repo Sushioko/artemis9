@@ -1,0 +1,24 @@
+@import url(http://themes.wikidot.com/monodot/code/1);
+
+/********* Change these values depending on the size of your logo (DELETE THIS LINE).
+#header h1 a,#header h1 a:hover{
+background-image: url(/local--files/start/logo.png);
+height:100px; /**** Height of your logo in pixels ****/
+width:130px; /**** Width of your logo in pixels ****/
+}
+
+#side-bar{
+   margin-top: 80px; /**** Height of your logo in pixels minus about 20 ****/
+   width:130px; /**** Width of your logo in pixels ****/
+}
+
+#main-content{
+   margin-left:137px; /**** Width of your logo in pixels plus 7 ****/
+}
+
+#page-options-bottom.page-options-bottom, #page-options-bottom-2.page-options-bottom{
+   left:145px; 
+/**** May need to be increased past 145 pixels if your logo is more than
+/**** 145 pixels wide but be careful of visitors that use smaller screens (experiment) ****/
+}
+(DELETE THIS LINE) *********/
